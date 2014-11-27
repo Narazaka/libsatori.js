@@ -1,0 +1,39 @@
+{
+	"name": "libsatori.js",
+	"description": "Yet Another SATORI on JavaScript",
+	"main": "satoriya/satori/libsatori.js",
+	"ignore": [
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"npm-debug.log",
+		"coverage",
+		"satoriya/*.bat",
+		"satoriya/_",
+		"satoriya/httpc",
+		"satoriya/obu",
+		"satoriya/sodate",
+		"satoriya/sodate_setup",
+		"satoriya/satori/test",
+		"satoriya/satori/makefile.*",
+		"satoriya/satori/*.cpp",
+		"satoriya/satori/*.h",
+		"satoriya/satori/*.dep",
+		"satoriya/satori/*.dsp",
+		"satoriya/satori/*.dsw",
+		"satoriya/satori/*.sln",
+		"satoriya/satori/*.vcxproj",
+		"satoriya/satori/*.filters",
+		"satoriya/satori/*.rc",
+		"satoriya/satori/*.exe",
+		"satoriya/satori/*.o",
+		"satoriya/satori/*.rb",
+		"satoriya/satori/satori_savedata.txt",
+		"satoriya/satori/em-*.js"
+	],
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT"
+}
