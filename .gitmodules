@@ -1,0 +1,3 @@
+[submodule "satoriya-shiori"]
+	path = satoriya-shiori
+	url = git@github.com:ponapalt/satoriya-shiori.git
