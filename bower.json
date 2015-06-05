@@ -1,7 +1,7 @@
 {
 	"name": "libsatori.js",
 	"description": "Yet Another SATORI on JavaScript",
-	"main": "satoriya-shiori/satoriya/satori/libsatori.js",
+	"main": "libsatori.js",
 	"ignore": [
 		"**/.*",
 		"bower_components",
