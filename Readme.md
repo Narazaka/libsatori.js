@@ -6,7 +6,7 @@ Yet Another SATORI on JavaScript
 Original SHIORI module
 ---------------------------------------
 
-[SATORI](https://code.google.com/p/satoriya-shiori/) by [The Maintenance Shop](http://ms.shillest.net/)
+[SATORI](https://github.com/ponapalt/satoriya-shiori) by [The Maintenance Shop](http://ms.shillest.net/)
 
 Installation
 ---------------------------------------

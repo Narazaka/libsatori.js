@@ -1,8 +1,9 @@
-**/.*
+.*
 node_modules
 bower_components
 npm-debug.log
 coverage
+Makefile
 satoriya-shiori/satoriya/*.bat
 satoriya-shiori/satoriya/_
 satoriya-shiori/satoriya/httpc
