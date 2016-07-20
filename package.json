@@ -1,9 +1,9 @@
 {
   "name": "libsatori.js",
-  "version": "0.159.1",
+  "version": "0.159.2",
   "description": "Yet Another SATORI on JavaScript",
   "homepage": "",
-  "main": "satoriya-shiori/satoriya/satori/libsatori.js",
+  "main": "libsatori.js",
   "author": {
     "name": "narazaka",
     "url": "http://narazaka.net/"

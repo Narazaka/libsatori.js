@@ -11,6 +11,10 @@ Original SHIORI module
 Installation
 ---------------------------------------
 
+    npm install libsatori.js
+
+or
+
     bower install libsatori.js
 
 or download zip archive and get libsatori.js
@@ -50,4 +54,4 @@ So use the wrapper module, [nativeshiori](https://github.com/Narazaka/nativeshio
 LICENSE
 --------------------------------
 
-(C) 2014 Narazaka : Licensed under [The BSD 3-Clause License](http://narazaka.net/license/BSD3?2014)
+(C) 2016 Narazaka : Licensed under [The BSD 3-Clause License](http://narazaka.net/license/BSD3?2016)

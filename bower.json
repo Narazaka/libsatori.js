@@ -1,7 +1,7 @@
 {
   "name": "libsatori.js",
   "description": "Yet Another SATORI on JavaScript",
-  "main": "satoriya-shiori/satoriya/satori/libsatori.js",
+  "main": "libsatori.js",
   "ignore": [
     "**/.*",
     "bower_components",
@@ -9,28 +9,7 @@
     "npm-debug.log",
     "coverage",
     "Makefile",
-    "satoriya-shiori/satoriya/*.bat",
-    "satoriya-shiori/satoriya/_",
-    "satoriya-shiori/satoriya/httpc",
-    "satoriya-shiori/satoriya/obu",
-    "satoriya-shiori/satoriya/sodate",
-    "satoriya-shiori/satoriya/sodate_setup",
-    "satoriya-shiori/satoriya/satori/test",
-    "satoriya-shiori/satoriya/satori/makefile.*",
-    "satoriya-shiori/satoriya/satori/*.cpp",
-    "satoriya-shiori/satoriya/satori/*.h",
-    "satoriya-shiori/satoriya/satori/*.dep",
-    "satoriya-shiori/satoriya/satori/*.dsp",
-    "satoriya-shiori/satoriya/satori/*.dsw",
-    "satoriya-shiori/satoriya/satori/*.sln",
-    "satoriya-shiori/satoriya/satori/*.vcxproj",
-    "satoriya-shiori/satoriya/satori/*.filters",
-    "satoriya-shiori/satoriya/satori/*.rc",
-    "satoriya-shiori/satoriya/satori/*.exe",
-    "satoriya-shiori/satoriya/satori/*.o",
-    "satoriya-shiori/satoriya/satori/*.rb",
-    "satoriya-shiori/satoriya/satori/satori_savedata.txt",
-    "satoriya-shiori/satoriya/satori/em-*.js"
+    "satoriya-shiori"
   ],
   "author": {
     "name": "narazaka",
